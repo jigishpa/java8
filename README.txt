@@ -1,0 +1,1 @@
+Trying out Java8 features. Subprojects contain individual features/functionalities in both old and new way.

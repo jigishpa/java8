@@ -1,0 +1,6 @@
+// additional common settings defined in the root project's build.gradle
+// common settings include - mavenCentral() repository, java plugin, JUnit compile dependencies, and wrapper task
+version = '1.0'
+
+apply plugin: 'application'
+mainClassName = 'com.senyume.java8.Application'
