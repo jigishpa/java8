@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/collections/collections.iml" filepath="$PROJECT_DIR$/collections/collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/datetime/datetime.iml" filepath="$PROJECT_DIR$/datetime/datetime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functional-interface/functional-interface.iml" filepath="$PROJECT_DIR$/functional-interface/functional-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/java8.iml" filepath="$PROJECT_DIR$/java8.iml" />
     </modules>
   </component>

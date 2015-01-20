@@ -40,8 +40,8 @@ public class Iteration {
 	// variable 'friend' is bound to each element of the collection during the call
 	// standard syntax for lambda expression - parameters in parenthesis, type information for each parameter, comma separated
 	// when we pass a lambda expression, the compiler will convert it to an instance of appropriate functional interface
-	// the synthesized method of this instance conforms to the abstract method of the functional interface. this abstract
-	// method takes the same arguments as the lambda expression
+	// the abstract method (of the functional interface) takes the same arguments as the lambda expression
+	// the synthesized method of this instance conforms to the abstract method of the functional interface
 	public void iterateNewWay2(){
 		friends.forEach( (final String friend) ->
 			System.out.println(friend));
